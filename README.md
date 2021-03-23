@@ -1,2 +1,3 @@
 # python-datetime-tz-bug
-Proof of Python bug
+
+Proving Python + pytz timezone madness
